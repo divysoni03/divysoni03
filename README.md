@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Divy Soni</h1>
 <h3 align="center">A passionate frontend developer and Flutter Developer from India</h3>
 
-
+<br><br><br>
+int age = 18; <br>
+bool Student = true; <br>
+string Skills = { "HTML5", "CSS3", "Js", "C++", "Java", "Flutter"}; <br>
+<br><br>
 - 🔭 I’m currently working on [my portfolio website](https://divysoni03.github.io/myportfolio/)
 
 - 🌱 I’m currently learning **JavaScript and flutter**
