@@ -4,7 +4,7 @@
 <br><br><br>
 int age = 18; <br>
 bool Student = true; <br>
-string Skills = { "HTML5", "CSS3", "Js", "C++", "Java", "Flutter"}; <br>
+string Skills[] = { "HTML5", "CSS3", "Js", "C++", "Java", "Flutter"}; <br>
 <br><br>
 - 🔭 I’m currently working on [my portfolio website](https://divysoni03.github.io/myportfolio/)
 
