@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my portfolio website](https://divysoni03.github.io/myportfolio/)
 
-- 🌱 I’m currently learning **JavaScript and flutter**
+- 🌱 I’m currently learning **JavaScript and Java**
 
 - 🤝 I’m looking for help with **front-end, DSA**
 
