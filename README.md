@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://divysoni03.github.io/myportfolio/](https://divysoni03.github.io/myportfolio/)
 
-- 💬 Ask me about **c++,flutter,**
+- 💬 Ask me about **c++,c,java**
 
 - 📫 How to reach me **divysoni303@gmail.com**
 
