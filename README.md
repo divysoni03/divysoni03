@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divy Soni</h1>
-<h3 align="center">A passionate frontend developer and Flutter Developer from India</h3>
+<h3 align="center">A passionate frontend developer and <!--Flutter Developer--> Software Developer from India</h3>
 
 <br>
 
@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://divysoni03.github.io/myportfolio/](https://divysoni03.github.io/myportfolio/)
 
-- 💬 Ask me about **c++,c,java**
+- 💬 Ask me about **c++, c, java**
 
 - 📫 How to reach me **divysoni303@gmail.com**
 
-- ⚡ Fun fact **I love To Teach**
+- ⚡ Fun fact **I love To Learn more about new Technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
