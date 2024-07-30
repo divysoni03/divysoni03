@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [my portfolio website](https://divysoni03.github.io/myportfolio/)
+- 🔭 I’m currently working on <!--[my portfolio website](https://divysoni03.github.io/myportfolio/)--> **My DSA knowledge, and problem solving skills.**
 
 - 🌱 I’m currently learning **JavaScript and Java**
 
