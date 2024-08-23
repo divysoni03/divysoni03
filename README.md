@@ -9,11 +9,13 @@
 
 - 🤝 I’m looking for help with **front-end, DSA**
 
-- 👨‍💻 All of my projects are available at [https://divysoni03.github.io/myportfolio/](https://divysoni03.github.io/myportfolio/)
+- 👨‍💻 All of my projects are available at [PortFolio](https://divysoni03.github.io/myportfolio/)
 
 - 💬 Ask me about **c++, c, java**
 
 - 📫 How to reach me **divysoni303@gmail.com**
+
+- ⌨️ MonkeyType profile - [divysoni03](https://monkeytype.com/profile/divysoni03)
 
 - ⚡ Fun fact **I love To Learn more about new Technologies**
 
