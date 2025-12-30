@@ -1,5 +1,6 @@
 <!-- <h1 align="center">👋 Hey there, I'm Divy Pattani (@divysoni03)</h1> -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Heyy+There,+I'm+Divy+Pattani)](https://git.io/typing-svg)
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Heyy+There,+I'm+Divy+Pattani)](https://git.io/typing-svg)</h1>
+
 <h3 align="center">A passionate Frontend & Backend Developer from India</h3>
 
 ---
